@@ -38,3 +38,6 @@
 - SQLD (SQL 개발자) - 한국데이터산업진흥원, 2023년 12월
 
 ### SNS
+<a href="https://velog.io/@burgur603/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@burgur603/posts"/></a>
+<a href="https://www.linkedin.com/in/%EA%B8%B8%ED%98%B8-%EA%B9%80-038bba2a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B8%B8%ED%98%B8-%EA%B9%80-038bba2a7/"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilho603@gmail.com)
