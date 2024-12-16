@@ -1,6 +1,9 @@
-## 안녕하세요 김길호입니다. 👋
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3e62,100:0b1904&height=180&text=g2ro's%20github&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    </div>
+## 안녕하세요, 김길호입니다. 🍔
 
-저는 통계학과 컴퓨터 공학을 전공하고 있는 학생입니다. 학습을 즐기고 원리를 깊이 이해하려 노력하며, 이를 통해 새로운 인사이트를 창출하는 것을 목표로 하고 있습니다.
+간절한 마음으로 열심히 하는 사람입니다.
 
 ### Skills
 :computer: 프로그램 언어
@@ -41,3 +44,7 @@
 <a href="https://velog.io/@burgur603/posts"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@burgur603/posts"/></a>
 <a href="https://www.linkedin.com/in/%EA%B8%B8%ED%98%B8-%EA%B9%80-038bba2a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B8%B8%ED%98%B8-%EA%B9%80-038bba2a7/"/></a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kilho603@gmail.com)
+
+
+
+
